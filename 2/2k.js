@@ -1,0 +1,1 @@
+Math.ceil(2.09); //returns 3
