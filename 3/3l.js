@@ -1,0 +1,1 @@
+`Shipping & handling: ${Math.round(100*(4.99*2))/100}`;
